@@ -70,6 +70,16 @@ Awesome Ethereum & Dapps Resources
 - [Ethereum Development with Go](https://goethereumbook.org/)
 - [Blockchain in Action](https://www.manning.com/books/blockchain-in-action)
 
+### EK Additions
+- [Eth2 Economic Review](https://drive.google.com/file/d/1pwt-EdnjhDLc_Mi2ydHus0_Cm14rs1Aq/view) - Jul2020
+- [Keep Whitepaper](https://backend.keep.network/whitepaper)
+- [tBTC: A Decentralized Redeemable BTC-backed ERC-20 Token](https://docs.keep.network/tbtc/index.pdf)
+- [Byzantine Fault Explanation](https://en.wikipedia.org/wiki/Byzantine_fault)
+- [Lopp: Bitcoin Resources and Information](https://www.lopp.net/bitcoin-information.html)
+- [Getting Started with Git](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Ubuntu Firewall Guide](https://help.ubuntu.com/community/UFW)
+
 #### DAPPS
 - [Dapp Insight](https://dappinsight.com/)
 - [State of the Dapps](http://dapps.ethercasts.com/)
@@ -107,7 +117,6 @@ Awesome Ethereum & Dapps Resources
 - [SafeMarket : P2P Marketplace](https://www.reddit.com/r/safemarket)
 - [JobMarket : Decentralized job market](https://github.com/ultra-koder/JobMarket)
 - [Taxeme : A component of the Resilience taxation system](https://github.com/resilience-me/Taxeme)
-- [Spore : Simple package manager for dApp development ](https://github.com/mhhf/spore)
 - [Spore : Simple package manager for dApp development ](https://github.com/mhhf/spore)
 - [Etheria : The first-ever decentralized virtual world ](https://github.com/fivedogit/etheria)
 - [PublicVotes : A publicly verifiable Voting System](https://github.com/domschiener/publicvotes)
